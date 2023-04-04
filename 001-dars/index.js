@@ -96,4 +96,3 @@
 // alert(`hello ${"name"}`);
 
 // alert( `hello ${name}` );
-
